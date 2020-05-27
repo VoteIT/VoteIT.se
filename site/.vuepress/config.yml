@@ -1,0 +1,19 @@
+description: 'Bättre beslutsmöten online'
+themeConfig:
+    logo: '/voteit-logo.svg'
+    smoothScroll: true
+    search: false
+    nav:
+      - text: Hem
+        link: /
+      - text: Föreningen VoteIT
+        link: /om-voteit/
+      - text: Skapa möte
+        link: /skapa-mote/
+      - text: Kontakt
+        link: /kontakt/
+      - text: In english
+        link: /in-english/
+extraWatchFiles: 
+    - '**/*.md'
+    - '**/*.vue'
