@@ -23,7 +23,7 @@ VoteIT har vuxit fram genom ett unikt samarbete mellan en rad olika organisation
 
 ## Prova på VoteIT
 
-Alla som vill ska kunna hålla sina möten i VoteIT! Läs mer om hur du provar VoteIT eller bokar in möten för att höra mer om funktionerna i systemet under Skapa möte. Det finns även (föråldrade) manualer för systemet samlade på manual.voteit.se. 
+Alla som vill ska kunna hålla sina möten i VoteIT! Läs mer om hur du provar VoteIT eller bokar in möten för att höra mer om funktionerna i systemet under Skapa möte. Det finns även (föråldrade) manualer för systemet samlade på [manual.voteit.se](https://manual.voteit.se/). 
 
 ## Engagera dig
 
