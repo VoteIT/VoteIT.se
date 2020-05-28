@@ -3,7 +3,7 @@ VoteIT informational website
 
 ## To start dev environment
     npm i
-    npx serve
+    npm run serve
 
 ## To build for deployment
-    npx build
+    npm run build
