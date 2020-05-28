@@ -10,7 +10,7 @@ För er som är mötesansvariga i er organsation, skicka gärna frågor till [su
 OBS! Just nu är det stort tryck på VoteIT. Servrarna håller men vi har svårt att svara på enkla frågor om systemet. Därför innan ni kontaktar oss:
 
 - Titta i Demomötet på [mote.voteit.se](https://mote.voteit.se) om ni är nyfikna på hur det ser ut och fungerar.
-- Kolla om din fråga redan ställts och finns i FAQn.
+- Kolla om din fråga redan ställts och finns i [FAQn](https://docs.google.com/document/d/1_rqBicVpz2kX-DuMyb20X22eFQ0FR_q6kvZipi_hrro/edit).
 - Var beredda på att kompromissa med starttid för möten. Även om VoteIT ursprungligen är byggt för onlinemöten så kräver det lite processande att hålla - sådana på ett bra sätt. Det är inte bara att starta direkt.
 - Var medvetna om att ni blir medlemmar i en ideell organisation, inte köper en tjänst!
 - Lär av tidigare möten - vi har gjort onlinemöten i över 10 år och vet ganska bra hur de kan göras så de fungerar och deltagarna trivs.

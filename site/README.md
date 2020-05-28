@@ -33,10 +33,10 @@ VoteIT är ett open-source-projekt och vi letar hela tiden efter utvecklare och 
 
 Många organisationer behöver nu flytta sina årsmöten eller stämmor online. Eftersom VoteIT ursprungligen är byggt för just det så går det fint att genomföra årsmöten så. Men det kräver att ni planerar om lite och kanske tänker annorlnda. Vi har laborerat med det här ganska mycket de senaste 10 åren och sett vad som fungerar och inte fungerar.
 
-Läs gärna mer här:
+### Läs mer
 
-- Att tänka på för bra onlinemöten
-- Hur är onlinemöten annorlunda?
+- [Att tänka på för bra onlinemöten](/skapa-mote/att-tanka-pa.html)
+- [Hur är onlinemöten annorlunda?](/skapa-mote/onlinemoten-annorlunda.html)
 
 Vi kan öka vår serverkapacitet så mycket som behövs, men vi har inte hur många människor som helst som är bra på onlineprocesser - det är därför det är viktigt att använda beprövad erfarenhet.
 

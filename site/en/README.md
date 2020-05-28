@@ -1,3 +1,6 @@
+---
+lang: en-US
+---
 # About VoteIT
 
 ![Big meeting](../assets/meeting2.jpeg)

@@ -1,6 +1,6 @@
 # Föreningen VoteIT
 
-![Logotyp VoteIT.se](../assets/voteit.png)
+![Logotyp VoteIT.se](../assets/voteit_se.svg)
 
 **Föreningen VoteITs syfte är ”att bidra till att mötesprogramvaran VoteIT vårdas, utvecklas och används samt att sprida kunskap kring nätbaserade beslutsmöten”. Föreningen bildades 2011 av 10 olika organisationer som ville skapa ett samarbetsorgan för att fortsätta utveckla VoteIT och nätdemokratin.**
 
@@ -58,6 +58,10 @@ Styrelsen väljs av medlemmarna på föreningens årsmöte. Nuvarande ledamöter
 - [Robin Harms Oredsson](mailto:robin@betahaus.net)
 - [Linnea Risinger](mailto:linnea.risinger@gmail.com)
 - [Hans Cruse](mailto:hans.cruse@gmail.com)
+
+## Personuppgiftspolicy
+
+- [Så hanterar vi personuppgifter](gdpr.html)
 
 ## Stadgar
 
