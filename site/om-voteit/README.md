@@ -12,44 +12,91 @@ Alla privatpersoner och organisationer som delar föreningens intresse för nät
 
 ## Medlemsorganisationer
 
+- 4H
+- ABF Stockholm/Västra Götaland
+- Akademikerförbundet SSR
+- Akavia
+- ATR (Amatörteaterns Riksförbund)
 - Betahaus
+- Bilkåren
+- BMW-klubben
+- Bygdegårdarnas Riksförbund
+- Centerkvinnorna
+- Centerstudenter
+- CUF
+- DHR – Delaktighet Handlingskraft Rörelsefrihet
 - DIK
-- Djurens rätt
-- Friskis & Svettis
-- Hyresgästföreningen (Distrikt)
+- Djurens Rätt
+- Equmenia
+- Equmeniakyrkan
+- Forum
+- Friskis och Svettis
+- Fritidsforum
+- Funktionsrätt Stockholms län
+- Fältbiologerna
+- Föreningen Norden
+- Föreningen Svenska Tecknare
+- Föreningen Svenska Tonsättare
+- Hyresgästföreningen
+- Individuell Människohjälp
+- IOGT-NTO
 - Junis
 - Kulturskolerådet
 - LRF Trädgård
 - LRF Ungdomen
 - Lärarförbundet
+- Läromedelsförfattarna
 - Mattecentrum
-- Miljöpartiet de gröna
-- Män för jämställdhet
+- Mensa
+- Miljöpartiet
+- Munskänkarna
+- Män (män för jämställdhet)
 - Naturskyddsföreningen
+- Norsk Komponistforening
 - Nykterhetsrörelsens Scoutförbund
+- Osteopatförbundet
+- Polisförbundet
+- RF-SISU Västra Götaland
 - RFSL
 - RFSU
+- Riksförbundet FUB
+- ROKS (Riksorganisationen för kvinnojourer och tjejjourer i Sverige)
 - Rädda Barnen
 - Röda korsets ungdomsförbund
 - Scouterna
 - Seko
 - Sensus
+- SKAP
 - Sköldkörtelförbundet
-- Socialdemokraterna (Göteborg & Stockholm)
+- SMC (Riksorganisationen Sveriges MotorCyklister)
+- Socialdemokraterna Göteborg
+- Socialdemokraterna Stockholm
 - SSU
-- Fackförbundet ST
+- ST-facket
 - Studiefrämjandet
 - Studieförbundet Vuxenskolan
+- Svensk biblioteksförening
+- Svensk Live
 - Svenska Flygsportförbundet
 - Svenska Kennelklubben
+- Svenska Kyrkans Unga
 - Svenska Turistföreningen
-- Sverigefinska Ungdomsförbundet
+- Sverigefinska ungdomsförbundet
+- Sveriges Elevkårer
 - Sveriges förenade studentkårer (SFS)
+- Sveriges Författarförbund
+- Sveriges Hembygdsförbund
+- Sveriges Tandläkarförbund
 - Sveriges Ungdomsråd
+- Sveriges Yngre Läkares Förbund - SYLF
 - Sverok
-- Taekwondoförbundet
-- Ungdomens nykterhetsförbund (UNF)
+- Taekwondoförbundet, Svenska
+- Teaterförbundet
+- Tekniska Högskolans Studentkår
+- Ung Vänster
+- Ungdomens nykterhetsförbund
 - Vision
+- Vårdförbundet
 
 ## Styrelse
 Styrelsen väljs av medlemmarna på föreningens årsmöte. Nuvarande ledamöter i styrelsen är:
