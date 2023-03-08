@@ -12,63 +12,56 @@ Alla privatpersoner och organisationer som delar föreningens intresse för nät
 
 ## Medlemsorganisationer
 
-- 4H
 - ABF Stockholm/Västra Götaland
-- Akademikerförbundet SSR
+- Adventist
 - Akavia
-- ATR (Amatörteaterns Riksförbund)
 - Betahaus
 - Bilkåren
 - BMW-klubben
-- Bygdegårdarnas Riksförbund
-- Centerkvinnorna
+- Centerpartiet
 - Centerstudenter
 - CUF
 - DHR – Delaktighet Handlingskraft Rörelsefrihet
 - DIK
 - Djurens Rätt
+- EFS
 - Equmenia
 - Equmeniakyrkan
+- Feministiskt Initiativ
+- Finansförbundet
 - Forum
 - Friskis och Svettis
-- Fritidsforum
 - Funktionsrätt Stockholms län
 - Fältbiologerna
-- Föreningen Norden
-- Föreningen Svenska Tecknare
-- Föreningen Svenska Tonsättare
-- Hyresgästföreningen
-- Individuell Människohjälp
 - IOGT-NTO
 - Junis
-- Kulturskolerådet
 - LRF Trädgård
 - LRF Ungdomen
-- Lärarförbundet
+- LSU
 - Läromedelsförfattarna
-- Mattecentrum
-- Mensa
 - Miljöpartiet
 - Munskänkarna
 - Män (män för jämställdhet)
 - Naturskyddsföreningen
-- Norsk Komponistforening
 - Nykterhetsrörelsens Scoutförbund
 - Osteopatförbundet
+- Piratpartiet
+- Pliktrådet
 - Polisförbundet
+- PSO
+- Psykologförbundet
 - RF-SISU Västra Götaland
 - RFSL
 - RFSU
 - Riksförbundet FUB
+- Riksteatern
 - ROKS (Riksorganisationen för kvinnojourer och tjejjourer i Sverige)
 - Rädda Barnen
 - Röda korsets ungdomsförbund
 - Scouterna
 - Seko
-- Sensus
 - SKAP
 - Sköldkörtelförbundet
-- SMC (Riksorganisationen Sveriges MotorCyklister)
 - Socialdemokraterna Göteborg
 - Socialdemokraterna Stockholm
 - SSU
@@ -81,18 +74,16 @@ Alla privatpersoner och organisationer som delar föreningens intresse för nät
 - Svenska Kennelklubben
 - Svenska Kyrkans Unga
 - Svenska Turistföreningen
-- Sverigefinska ungdomsförbundet
-- Sveriges Elevkårer
 - Sveriges förenade studentkårer (SFS)
-- Sveriges Författarförbund
-- Sveriges Hembygdsförbund
+- Sveriges Ingenjörer
 - Sveriges Tandläkarförbund
 - Sveriges Ungdomsråd
 - Sveriges Yngre Läkares Förbund - SYLF
 - Sverok
 - Taekwondoförbundet, Svenska
-- Teaterförbundet
+- Scen och film
 - Tekniska Högskolans Studentkår
+- Ung Media
 - Ung Vänster
 - Ungdomens nykterhetsförbund
 - Vision

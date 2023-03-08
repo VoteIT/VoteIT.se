@@ -2,8 +2,7 @@
 
 Här hittar du svar på vanliga frågor om VoteIT, med fokus på digitala beslutsmöten. Har du fler frågor kan du kontakta oss på info@voteit.se.
 
-Till er tjänst :-)  
-/VoteIT-supporten
+En viktig sak att veta är att föreningen VoteIT inte har anställd personal, men det finns många personer som kan VoteIT som kan hyras in för stöd och support under möten från både andra organisationer och företag.
 
 ## Grundläggande funktionalitet
 
@@ -13,15 +12,15 @@ RFSL har användartestat systemet, och VoteIT fungerar enligt dem med skärmuppl
 
 ### Våra medlemmar och förtroendevalda har en hög medelålder, många har inte allt för stora datorkunskaper (särskilt inte när det kommer till programmering och webbgränssnitt) är det ett problem för att använda VoteIT?
 
-Det är en oro vi ofta hör men vår erfarenhet är att det sällan de med hög medelålder som har problem med VoteIT. Istället är det de som saknar erfarenhet av årsmöten och föreningsdemokrati som har problem. Tekniken är lättare att förstå än kontrapropositionsvoteringar.
+Det är en oro vi ofta hör men vår erfarenhet är att det sällan de med hög medelålder som har problem med VoteIT. Tekniken är lättare att förstå än kontrapropositionsvoteringar. Dessutom kan presidialer som kan VoteIT bra använda det för att förklara processen för deltagare, oavsett om de har digital enhet eller inte.
 
 ### Kan jag med VoteIT rösta på ett förslag som ställs från presidiet, begära votering efter en röstning, räkna antal röster?
 
-Ja. Det är en central del av VoteIT. Alla omröstningar i VoteIT är rösträknande och slutna.
+Ja. Det är en central del av VoteIT. Alla omröstningar i VoteIT är rösträknande.
 
 ### Kan jag med VoteIT se till så deltagarna bara kan rösta på ett förslag om det exempelvis är fler förslag under samma beslutspunkt?
 
-Om ni har flera förslag som står mot varandra rekommenderar vi rangordningsvotering med Schulze. Då röstar deltagarna genom att rangordna flera förslag. Omröstningen genomförs med en beräkningsmodell där alla förslag ställs parvis mot varandra, och det förslag som individuellt vinner om alla andra förslag vinner omröstningen. Det är den snabbaste och mest rättvisa metoden för en digital omröstning med flera förslag. På resultatsidan visas hur det vinnande förslaget stod sig mot varje annat förslag. Givetvis har vi många andra omröstningsmetoder inbyggda i VoteIT också.
+Om ni har flera förslag som står mot varandra rekommenderar vi rangordningsvotering med Schulze. Då röstar deltagarna genom att rangordna flera förslag. Omröstningen genomförs med en beräkningsmodell där alla förslag ställs parvis mot varandra, och det förslag som individuellt vinner om alla andra förslag vinner omröstningen. Det är den snabbaste och mest rättvisa metoden för en digital omröstning med flera förslag. På resultatsidan visas hur det vinnande förslaget stod sig mot varje annat förslag. Alltså exakt samma princip som kontraproposition som redan används i de flesta föreningar.
 
 ### Hanterar röstningssystemet olika antal röster/individ?
 
@@ -29,7 +28,7 @@ Ja, det finns ett par olika sätt att sätta olika röstetal per deltagare. Om n
 
 ### Finns det möjlighet att begära ordet och att vi får kölista på de som begär ordet?
 
-Ja det stöder VoteIT. För digitala möten blir det bara aktuellt om ni väljer att köra med VoteIT som ett stöd till videokonferens, vilket vi inte rekommenderar. Bättre är att alla får skriva vad de vill säga när som helst under de 5 – 10 dagar mötet pågår.
+Talarlistor har varit inbyggt sen många år och är bara att aktivera i möten. Det går dessutom att bygga olika former av kvoteringsmodeller för de organisationer som vill ha det.
 
 ### Kan jag med VoteIT ha ett slutet möte där vi kan verifiera deltagarna?
 
@@ -38,6 +37,8 @@ Ja, det stödjer VoteIT. Verifiering baseras på epost. Vi kan också erbjuda ve
 ### Hur funkar det att fastställa ombudslistan? Alltså, hur säkerställer vi att det är rätt personer som röstar? Jag tänker främst på årsmöte i en stor organisation.
 
 Det vanligaste är att använda epostadresser för verifiering. Ni lägger in e-posten till den som ska ha en viss rättighet och då kommer enbart den som registrerar sig med den e-posten kunna läsa, diskutera eller rösta i dess namn. Vilka deltagare som ska ha vilka rättigheter kan också redigeras när det behövs.
+
+Det går också att använda BankID eller externa medlemsregister.
 
 ### Hur många kan delta?
 
@@ -87,12 +88,6 @@ Tvärtom. Om du kör möten helt digitalt, alltså textbaserat, så visar vår e
 
 En av de främsta fördelarna är också att den som har något teknikstrul inte behöver bli orolig utan kan kontakta supporten i lugn och ro och få hjälp. Alla blir lugnare och det blir lättare för de som tycker det är svårt.
 
-### Men omvänt då: funkar det att ha korta(re) årsmöten digitalt, där en behandlar många förslag och punkter. Genom att tex sätta tider för de olika ämnena?
-
-Visst funkar det. Med de problem jag angav ovan. Jag tror vi behöver reda ut begreppen här. Om du med ”årsmöten digitalt” menar ”helt digitala möten där allt sker i text och eventuella filmade videosekvenser för föredragningar och liknande” är vår erfarenhet att det behövs rikligt med tid för att det ska bli bra av skäl som jag angett ovan.
-
-Om du däremot menar möten som liknar fysiska kongresser men där alla deltagare är på videolänk och VoteIT används för att hålla ordning på handlingar, förslag och omröstningar så går det absolut att korta ner tiden. Då går det fint att köra på samma tid som ni skulle köra en fysisk kongress. Med tillägg att det behövs ha rikligt med tid innan då teknisk support finns online för att hjälpa alla att loggan/registrera sig. Om alla är registrerade och klara när mötet öppnar så bör det inte ta längre eller kortare tid än att göra ett ”vanligt” fysiskt möte.
-
 ### Hur deltar mötesdeltagarna på ett helt digitalt VoteIT-möte?
 
 Först och främst så är VoteIT ett system för att hålla helt digitala möten (textbaserade beslutsmöten) och stödsystem för kongresser med fysiskt närvarande deltagare. VoteIT innehåller inget direkt stöd för ljud eller video och det har heller aldrig varit meningen. Under mer än 10 år har vi hållit massor med digitala årsmöten där alla deltagarna befinner sig på olika platser och det har fungerat utmärkt. Jag ska förklara hur det fungerar.
@@ -123,18 +118,6 @@ Om ni väljer att bli medlemmar i föreningen VoteIT så ingår en egen ”serve
 
 Föreningen VoteIT gör inte detta, med det finns flera andra föreningar, individer och företag som kan hjälpa er med detta. Vi kan förmedla kontakt till dessa.
 
-### Det digitala mötet bör ske under ca 2- 3 timmar beroende av hur många som vill vara med. Blir det bra?
-
-Nej, mötet kommer ta ca 3-7 dagar beroende på hur många frågor ni har. Om ni bara ska ha ett formellt möte och klubba några saker utan diskussion på 10 personer behöver ni inte VoteIT. Om ni ska ha en demokratisk process som ersätter ett fysiskt årsmöte går det inte att göra så snabbt. Alla måste kunna få svara under dagordningspunkter, lägga motförslag och sedan gå till beslut efter att diskussionen är avklarad. Omröstningarna är öppna i kanske 24h så alla hinner rösta i lugn och ro. Vissa punkter går dessutom inte att köra parallellt vilket gör att ni kommer behöva ha tid.
-
-Givetvis sitter inte deltagarna flera dagar framför datorn. De loggar in vid några tillfällen under mötet och gör vad de behöver.
-
-På den här punkten är vi benhårda. Vi har gjort så många onlineprocesser de senaste 10 åren att vi vet vad som fungerar och vad som inte fungerar. Det har också gjorts en del riktigt dåliga möten i VoteIT av organisationer som inte har velat lyssna första gången, så vi försöker vara lite hårda i början :) (För er skull!)
-
-### Hur långt innan bör anmälan till mötet ske?
-
-För deltagarna? Det spelar inte så stort roll eftersom mötet inte har begränsningar på samma sätt som en fysisk möteslokal. Men det är så klart bra att veta vilka ni ska bjuda in innan mötet startar. Jag brukar rekommendera att frågan är avgjord innan man startar omröstningar i mötet i alla fall.
-
 ### Behöver någon från styrelsen sitta samlat eller kan alla sitta vid sin dator?
 
 Alla kan sitta vid sin egen dator, läsplatta eller telefon. 
@@ -143,7 +126,7 @@ Ett tips är dock att kanske ha ett speciellt tillfälle där ni har telefonväk
 
 ### Hur sker röstning, voteringar mm?
 
-Välj vilka yrkanden som ska ingå, välj omröstningsmetod, starta omröstningen. På fysiska möten brukar presidiet fråga om alla röstat klart, men under onlinemöten går inte det. Därför behöver ni bestämma tider då omröstningar öppnar och stänger, normalt 24h. Därefter stängs omröstningen och resultatet beräknas direkt.
+Välj vilka förslag som ska ingå, välj omröstningsmetod, starta omröstningen. På fysiska möten brukar presidiet fråga om alla röstat klart, men under onlinemöten går inte det. Därför behöver ni bestämma tider då omröstningar öppnar och stänger. Därefter stängs omröstningen och resultatet beräknas direkt.
 
 Det finns ca 10 olika omröstningsmetoder i nuläget. Dessa kan hantera allt ifrån enkel majoritet, kvalificerad majoritet, personval med proportionellt resultat och personval med absolut resultat till snabba bifall/avslag/avstå-omröstningar. Det allra mesta kan lösas med någon av dessa metoder.
 
@@ -153,11 +136,7 @@ Om det är ett helt digitalt möte ni tänker er så krävs det kanske 4-6 timma
 
 ### Vi behöver köra vår riksstämma online Är det rimligt att vi har ca 80 ombud som deltar, många relativt datorovana?
 
-Det går fint. Datorovana brukar inte vara några problem alls. Det är mer mötesovana som tycker det är svårt än datorovana.
-
-### Kan man alltså få hjälp på plats där vi som håller i mötet sitter, i Stockholm? Det gäller en dag, ca 8 timmar.
-
-Ja. Även om vi rekommenderar att man kör textbaserade möten (vilket är den typen vi rekommenderar starkt) över 4 – 7 dagar där deltagarna kan gå in någon gång om dagen och läsa, debattera och rösta.
+Det går fint. Datorovana brukar inte vara några problem alls. Det är mer mötesovana som tycker det är svårt än datorovana. 
 
 ### Går det att lägga upp innehåll som ska beredas, men styra i när de olika delarna, punkterna, behandlas? Dvs så att deltagarna inte börjar diskuterar allt på en gång.
 
@@ -180,9 +159,9 @@ När det gäller administratörskonton finns det 3 nivåer som är relevanta:
 
 **Mötesskapare**: En person som får skapa nya möten. Den personen blir sen moderator i det nyskapade mötet och kan bjuda in ytterligare moderatorer till det specifika mötet. Det här är lämpligt för lokalföreningar som fått utbildning så ni slipper administrationen. Observera att om mötesskaparen ger moderatorsroll till fler så kan den sedan ta bort sin egen moderatorsroll i mötet om den inte ska ha den rollen längre.
 
-### Varför skulle Voteit vara bättre vid ett årsmöte än ett möte med tex Zoom?
+### Varför skulle VoteIT vara bättre vid ett årsmöte än ett möte med tex Zoom?
 
-Kortfattat är det helt olika saker. VoteIT håller ordning på dagordning, yrkanden (förslag), omröstningar, röstlängd och allt sådant. I Zoom/Meets/Jitsi/Teams och andra videokonferenssystem kan du leda möten och föra diskussioner i ett ”onlineplenum”. Om du väljer att använda ett sådant videosystem som ”onlineplenum” behöver du fortfarande hålla ordning på allt som VoteIT gör samt hålla omröstningar. Detta kan VoteIT hjälpa till med. Men samtidig har ett onlineplenum många nackdelar mot ett fysiskt plenum, det blir snabbt tråkigt på ett längre möte, massor med teknikstrul med mikrofoner, dålig uppkoppling och en demokratisk obalans när inte alla har samma tekniska vana eller utrustning. Om du istället väljer att istället för ett sådant onlineplenum använda VoteITs diskussionsdel och dra ut mötet över 5 – 10 dagar kan deltagarna i lugn och ro föra samtalen i den textbaserade diskussionen. Allas röster kan höras (läsas) och eventuellt teknikstrul kan lösas i lugn och ro eftersom det finns gott om tid. Deltagarna behöver givetvis inte vara inne i mötet under 5 – 10 dagar utan kan besöka det någon gång om dagen, läsa, debattera och rösta allt eftersom.
+Kortfattat är det helt olika saker. VoteIT håller ordning på dagordning, förslag (yrkanden), omröstningar, röstlängd och allt sådant. I Zoom/Meets/Jitsi/Teams och andra videokonferenssystem kan du leda möten och föra diskussioner i ett "onlineplenum". Om du väljer att använda ett sådant videosystem som "onlineplenum" behöver du fortfarande hålla ordning på allt som VoteIT gör samt hålla omröstningar. Detta kan VoteIT hjälpa till med. Men samtidig har ett onlineplenum många nackdelar mot ett fysiskt plenum, det blir snabbt tråkigt på ett längre möte, massor med teknikstrul med mikrofoner, dålig uppkoppling och en demokratisk obalans när inte alla har samma tekniska vana eller utrustning. Om du istället väljer att istället för ett sådant onlineplenum använda VoteITs diskussionsdel och dra ut mötet över 5 – 10 dagar kan deltagarna i lugn och ro föra samtalen i den textbaserade diskussionen. Allas röster kan höras (läsas) och eventuellt teknikstrul kan lösas i lugn och ro eftersom det finns gott om tid. Deltagarna behöver givetvis inte vara inne i mötet under 5 – 10 dagar utan kan besöka det någon gång om dagen, läsa, debattera och rösta allt eftersom.
 
 Sammanfattning (med Zoom som exempel):
 
@@ -192,7 +171,7 @@ Det är inte VoteIT eller Zoom. Det är VoteIT OCH Zoom eller bara VoteIT. Med V
 
 ### Kan vi köra på egen server?
 
-Den senaste versionen av VoteIT är än så länge inte tillgänglig för att ladda ner och köra på egen server. Om ni väljer att gå med i föreningen VoteIT sätter vi upp en egen instans åt er som ni kan köra hur många möten ni vill på och som ni administrerar själva med vår hjälp. Vårt mål är att det så småningom ska bli enkelt att köra sin egen VoteIT-server för den som önskar det.
+Den senaste versionen av VoteIT är än så länge inte tillgänglig för att ladda ner och köra på egen server. Om ni väljer att gå med i föreningen VoteIT sätter vi upp en egen instans åt er som ni kan köra hur många möten ni vill på och som ni administrerar själva med vår hjälp. Vårt mål är att det så småningom ska bli enkelt att köra sin egen VoteIT-server för den som önskar det. (Men den kommer bli tillgänglig snart, projektet är fortfarande öppen källkod!)
 
 ### Hur kopplar vi vårt medlemsregister till er?
 
@@ -208,7 +187,7 @@ Om ni har egna utvecklare som kan bidra till VoteIT med specifik funktionalitet 
 
 Ni blir medlemmar för ett år och kan då köra hur många möten ni vill.
 
-### Vi är nu medlemmar nu i Voteit. Kan därmed också våra regionala förbund använda verktyget?
+### Vi är nu medlemmar nu i VoteIT. Kan därmed också våra regionala förbund använda verktyget?
 
 Javisst. Regionala organisationer och lokalavdelningar får gärna använda er instans. 
 
