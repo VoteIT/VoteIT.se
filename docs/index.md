@@ -23,7 +23,7 @@ Den 4e generationen VoteIT är nu i drift! Det har utvecklats under 3 år och k�
 - Digitalt stöd för att hålla årsmöten i enighet med svensk lag
 - Hantering av dagordning, förslag, diskussioner och omröstningar
 - Röstlängder och närvarokontroll
-- Avancerade omröstningsmetoder (Schultze, majoritetsbeslut, kontrapropositionsvoteringar, flervalsvoteringar)
+- Avancerade omröstningsmetoder (Schulze, majoritetsbeslut, kontrapropositionsvoteringar, flervalsvoteringar)
 - Textändringsförslag för tydlig behandling av förslagstexter (ex verksamhetsplan)
 - Talarlistor och talarstatistik
 - Arbetsflöden för yrkanden, dagordningspunkter och hela möten – du ser hela tiden vad som är obehandlat, under behandling och färdigt.
