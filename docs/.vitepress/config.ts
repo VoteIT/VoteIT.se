@@ -15,12 +15,12 @@ export default {
         link: '/'
       },
       {
-        text: 'Föreningen',
-        link: '/om-voteit/'
+        text: 'Lathundar',
+        link: '/lathundar/'
       },
       {
-        text: 'Skapa möte',
-        link: '/skapa-mote/'
+        text: 'Föreningen',
+        link: '/om-voteit/'
       },
       {
         text: 'Kontakt',

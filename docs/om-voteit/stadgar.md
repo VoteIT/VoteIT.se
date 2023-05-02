@@ -1,6 +1,3 @@
----
-title: Stadgar för Föreningen VoteIT
----
 # Stadgar
 **Föreningen VoteIT:s stadgar.**
 
