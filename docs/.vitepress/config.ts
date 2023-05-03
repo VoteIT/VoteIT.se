@@ -1,10 +1,10 @@
 export default {
   lang: 'sv-SE',
   title: 'VoteIT',
-  description: 'Bättre beslutsmöten online',
+  description: 'Bättre beslutsmöten',
   themeConfig: {
     outlineTitle: 'På sidan',
-    siteTitle: 'Bättre beslutsmöten online',
+    siteTitle: 'Bättre beslutsmöten',
     logo: {
       dark: '/voteit-logo.svg',
       light: '/voteit-logo-purple.svg'
@@ -15,8 +15,8 @@ export default {
         link: '/'
       },
       {
-        text: 'Lathundar',
-        link: '/lathundar/'
+        text: 'Lär dig mer',
+        link: '/lar-dig-mer/'
       },
       {
         text: 'Föreningen',
