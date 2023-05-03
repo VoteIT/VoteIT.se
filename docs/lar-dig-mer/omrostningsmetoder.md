@@ -12,7 +12,7 @@ När ni är redo att gå till omröstning finns det flera omröstningsmetoder at
 |------------------------------------|-----------------|--------------------|-----------|-----------|---------------|
 | Majoritetsomröstning               | Ja              | *                  | *         | *         | *             |
 | Dutt (Relativ majoritet)           | Nej             | Nej                | Nej       | Nej       | *             |
-| Eliminationsvotering / kontrapropp | Ja              | Nej                | Nej       | Nej       | *             |
+| Eliminationsvotering / kontrapropp | Ja              | Ja                 | Nej       | Nej       | *             |
 | Schulze                            | Ja**            | Ja                 | Ja        | Ja        | Nej           |
 | IRV                                | Ja              | Ja                 | Ja        | Nej       | Ja            |
 

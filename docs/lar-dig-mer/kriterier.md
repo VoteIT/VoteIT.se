@@ -1,7 +1,6 @@
 # Kriterier
 
 En röstmetod anger både hur en lagt röst ska se ut, och hur resultatet räknas ut. För att förstå de olika metodernas för- och nackdelar behöver du kunskap om de olika kriterier som kan uppfyllas.
-Denna bok innehåller ingen komplett lista på röstmetoder. Jag har fokuserat på de metoder jag tror är mest relevanta i föreningslivet. Jag har till exempel valt att hoppa över den modifierade Sainte-Laguë-metoden, eller jämkade uddatalsmetoden som vi brukar kalla den när vi använder den i Sveriges allmänna val. Såvitt jag vet finns det inga föreningar som använder, eller överväger att använda, den metoden.
 
 ## Majoritetsvinst
 
