@@ -35,7 +35,7 @@ För en förening är läget ett annat. Valet av proportionerlig valmetod eller 
 
 ## Later-no-harm
 
-Detta kriterium gäller rangordnade röstmetoder. I vissa situationer kan kandidater längre ner på en valsedel påverka möjligheten för en kandidat längre upp att bli vald. I metoder som uppfyller later-no-harm kan detta inte kunna hända.
+Detta kriterium gäller rangordnade röstmetoder. I vissa situationer kan kandidater längre ner på en valsedel påverka möjligheten för en kandidat längre upp att bli vald. I metoder som uppfyller later-no-harm kan detta inte hända.
 
 I metoder som inte uppfyller kriteriet är det möjligt att taktikrösta genom att rösta på minsta antal kandidater eller genom att sätta kandidater som kan utmana ditt förstahandsval långt ner. Det är ett dubbeleggat svärd att rösta så, eftersom det kan göra att ingen av dina föredragna kandidater vinner.
 
