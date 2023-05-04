@@ -28,7 +28,7 @@ Det finns också, precis som för motsatsen majoritetsvinst, en *Condorcet-förl
 
 En omröstning kan också ha svaga Condorcet-vinnare eller -förlorare. Det betyder att det finns mer än ett förslag som är oavgjorda mot varandra, men som vinner eller förlorar mot alla andra förslag.
 
-För att den omröstningsmetod ska anses vara Condorcet-metod måste en Condorcet-vinnare garanterat vinna. I de fall en Condorcet-vinnare inte inte kan utses i en specifik omröstning finns inget som hindrar metoden att ändå utse vinnare.
+I de fall en Condorcet-vinnare inte inte kan utses i en specifik omröstning finns det inget som hindrar metoden att ändå utse vinnare.
 
 ## Proportionerligt resultat
 
