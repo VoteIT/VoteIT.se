@@ -33,7 +33,7 @@ Schulze-metoden kan inte manipuleras genom taktikröstande eller [kloning av fö
 
 Om vi vill ställa två förslag mot varandra i VoteIT använder ni metoden *Motförslag*. Vinnaren är det förslag som får flest röster. I de flesta fall vill ni även ställa vinnaren mot avslag. Det kan ni göra i en separat omröstning, men ännu enklare är att istället göra det som en [Schulze-omröstning](#schulze-metoden-rekommenderas), där ni lägger till avslag.
 
-### Majoritetsomrösgning 2: Bifall / Avslag / Avstå
+### Majoritetsomröstning 2: Bifall / Avslag / Avstå
 
 Med den här metoden kan ni ställa ett eller flera förslag mot avslag. Det betyder att ni kan avverka många förslag i samma omröstning. De som röstar och också välja att avstå från att ta ställning till enskilda förslag.
 
