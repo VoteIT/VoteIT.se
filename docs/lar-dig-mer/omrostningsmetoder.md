@@ -80,21 +80,21 @@ Skotsk STV är den röstmetod i VoteIT som rekommenderas för att utse flera vin
 
 *STV*, eller *enkel överförbar röst* är en metod som lades fram som idé redan 1819. Metoden har använts i allmänna val på Malta och Irland sedan 1921, och i flera andra länder efter det. STV finns i flera variationer, men grunden är densamma. En röst ska rangordna kandidaterna med nummer (1,2,3,...), och antalet vinnare bestäms på förhand.
 
-Resultatet räknas i korthet ut genom att räkna ut en kvot, som är det antal röster ett förslag behöver uppnå för att ha vunnit, och därefter genomförs ett antal valomgångar där antingen förslag som nått kvoten blir valde eller det förslag med minst antal röster utesluts. Hela de uteslutna kandidaternas röster, eller en fraktion som överstiger kvoten av rösternas värde för valda kandidater överförs på sina valsedlars nästa kandidat. Är det slut på kandidater på en valsedel anses den förbrukad. När antalet platser att fylla är lika många som antalet kvarstående kandidater anses resterande valda, oavsett om de uppnår kvoten eller ej.
+Resultatet räknas i korthet ut genom att räkna ut en kvot, som är det antal röster ett förslag behöver uppnå för att ha vunnit, och därefter genomförs ett antal valomgångar där antingen förslag som nått kvoten blir valda eller det förslag med minst antal röster utesluts. Hela de uteslutna kandidaternas röster, eller en fraktion som överstiger kvoten av rösternas värde för valda kandidater, överförs på dessa valsedlars nästa kandidat. Är det slut på kandidater på en valsedel anses den förbrukad. När antalet platser att fylla är lika många som antalet kvarstående kandidater anses resterande valda, oavsett om de uppnår kvoten eller ej.
 
-STV har ett avancerat system för att lösa oavgjorda situationer, men trots det kan en situation uppstå där lottning behöver användas för att utesluta ett förslag, eller bestämma ordningen på vinnare. Det är inte alls säkert att lottad uteslutning av förslag påverkar slutresultatet. Det går att använda STV utan lottning, men kan då get ett ofullständigt resultat.
+STV har ett avancerat system för att lösa oavgjorda situationer, men trots det kan en situation uppstå där lottning behöver användas för att utesluta ett förslag, eller bestämma ordningen på vinnare. Det är inte alls säkert att lottad uteslutning av förslag påverkar slutresultatet. Det går att använda STV utan lottning, men kan då ge ett ofullständigt resultat.
 
 ### Upprepad Schulze
 
 Upprepad Schulze är den röstmetod i VoteIT som rekommenderas för att utse flera vinnare (exempelvis styrelseval) med ett resultat som prioriterar majoristetsstöd.
 
-Genom att upprepa Schulze kan du utse flera vinnare eller rangordna förslagen i omröstningen. Resultatet prioriterar majoritetsstöd i varje stöd, i motsats till ett proportionellt resultat.
+Genom att låta VoteIT upprepa Schulze med den tidigare vinnaren utesluten flera vinnare utses eller rangordna förslagen i omröstningen. Resultatet prioriterar majoritetsstöd i varje individuellt val, i motsats till ett proportionellt resultat.
 
 ### Dutt (Acceptröstning)
 
 Acceptröstning (Dutt i VoteIT), betyder att deltagarna kryssar för flera förslag på en lista. Ofta bestäms i förväg ett minsta och högsta antal kryss som ska sättas för att en valsedel ska vara giltig. Vinnare är vanligen ett förutbestämt antal förslag som fått flest kryss. Varianter kan vara att förslaget även måste ha över 50 % stöd, eller att alla förslag över 50 % anses ha vunnit.
 
-Metoden är detsamma som relativ majoritet, och har många liknande problem, men flera vinnare utses. Den är känslig för manipulation, och även oavsiktlig sådan.
+Metoden är detsamma som relativ majoritet, och har många liknande problem, men flera vinnare utses. Den är känslig för manipulation, även oavsiktlig sådan.
 
 Acceptröstning bör undvikas för omröstningar av betydelse, men kan användas till exempel för tidsbudgetar. [Skotsk STV](#skotsk-stv) är vanligtvis att föredra. Om ni vill prioritera majoritetsstöd framför [proportionerligt resultat](kriterier.md#proportionerligt-resultat) rekommenteras [Upprepad Schulze](#upprepad-schulze).
 
