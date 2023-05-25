@@ -12,7 +12,7 @@ Om ni valt den här metoden i ett möte visas inte rollen *Potentiell röstare* 
 
 ## Automatiskt före omröstning
 
-Med den här metoden fastställer VoteIT vid behov automatiskt en ny röstlängd när en omröstning startar. Kan användas ihop med komponenten *Aktiva användare* om ni vill ha någon form av närvarokontroll i mötet.
+Med den här metoden fastställer VoteIT vid behov automatiskt en ny röstlängd när en omröstning startar. Kan användas ihop med komponenten [Aktiva användare](narvaro-rostratt.md#aktiva-anvandare) om ni vill ha någon form av närvarokontroll i mötet.
 
 ## Bara manuellt
 
@@ -22,4 +22,4 @@ Med den här metoden behöver ni manuellt skapa nya röstlängder. När ni vill 
 
 Med den här metoden fastställer ni röstlängd genom att genomföra en närvarokontroll. När ni avslutar närvarokontrollen får alla som markerat sig närvarande och har rollen *Potentiell röstande* rösträtt. Det är även möjligt att manuellt skapa en ny röstlängd utifrån den senaste, om någon till exempel missat att svara på närvarokontrollen.
 
-Den här metoden rekommenderas inte, men finns kvar i VoteIT för att vissa organisationer har arbetsordningar eller stagdar som kräver metoden. Om ni har möjlighet rekommenderar vi att köra utan närvarokontroll, eller att använda [Automatiskt före omröstning](#automatiskt-före-omröstning) ihop med den mer lättanvända komponenten *Aktiva användare*.
+Den här metoden rekommenderas inte, men finns kvar i VoteIT för att vissa organisationer har arbetsordningar eller stagdar som kräver metoden. Om det inte är ett absolut måste rekommenderar vi att undvika närvarokontroller, eller att använda [Automatiskt före omröstning](#automatiskt-fore-omrostning) ihop med funktionen [Aktiva användare](narvaro-rostratt.md#aktiva-anvandare).
