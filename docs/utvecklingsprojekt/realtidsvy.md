@@ -12,6 +12,12 @@ Vi har delat upp projektet i tre delprojekt, som var och ett kan genomföras och
 
 Att gränsen för att starta ett delprojekt är högre än beräknade timmar (kostnaden per utvecklingstimme är 1 200 SEK, ingen moms) beror på att faktisk utvecklingstid kan avvika från beräknad tid. Eventuella överskjutande medel flyttas till nästa delprojekt.
 
+### Sponsorer
+
+För att listas som sponsor för detta utvecklingsprojekt behöver organisationen utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 sponsorer på miniminivå.
+
+Kontakta [Johan Schiff](mailto:johan@betahaus.net) för sponsring av VoteIT realtidsvy.
+
 ## Vad är nytt?
 
 På ett sätt är ett möte i VoteIT redan i realtid, på så sätt att innehållet hålls uppdaterat mot det som händer i det faktiska mötet. När ett förslag bifalles ändras visningen direkt på din skärm. Det finns också en plenumvy som ofta visas på projektor eller stor skärm, där presidiet kan klicka fram förslag, markera utgång av omröstningar och snabbstarta voteringar.
