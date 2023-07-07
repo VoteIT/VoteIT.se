@@ -18,6 +18,12 @@ Den 4e generationen VoteIT är nu i drift! Det har utvecklats under 3 år och k�
 - Automatiserade eller automatiska röstlängder utifrån vilket sorts möte ni vill ha.
 - Nyfiken? Prova demomötet: [demo.voteit.se](https://demo.voteit.se)
 
+## Utvecklingsprojekt
+
+VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokratiska behov.
+
+- [Utvecklingsprojekt](./utvecklingsprojekt/)
+
 ## I VoteIT finns
 
 - Digitalt stöd för att hålla årsmöten i enlighet med svensk lag
