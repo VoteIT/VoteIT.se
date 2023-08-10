@@ -22,9 +22,15 @@ Kontakta [Johan Schiff](mailto:johan@betahaus.net) för sponsring av VoteIT real
 
 På ett sätt är ett möte i VoteIT redan i realtid, på så sätt att innehållet hålls uppdaterat mot det som händer i det faktiska mötet. När ett förslag bifalles ändras visningen direkt på din skärm. Det finns också en plenumvy som ofta visas på projektor eller stor skärm, där presidiet kan klicka fram förslag, markera utgång av omröstningar och snabbstarta voteringar.
 
-Det saknas dock ett sätt för en deltagare att på sin egen skärm följa det som presidiet visar upp på projektorn. De deltagare som vill ha lite mer kontroll och läsa texten i lugn och ro är hänvisade till den vanliga mötesvyn, där de behöver hitta rätt dagordningspunkt och scrolla till rätt förslag.
+Det finns också en separat fullskärmsvy för talarlistor, där mötets aktiva talarlista visas upp.
 
-Målet med det här projektet är framförallt att skapa en vy där en vanlig deltagare och följa och interagera med det som är aktuellt i mötet i realtid. Om det finns en pågående talarlista syns vilka som står på den, motsvarande dagens fullskärmsvy för talarlistor, och det ska också i delprojekt två bli möjligt att sätta upp sig på talarlistan. Om presidiet sänder från plenumvyn får deltagaren även upp vilken dagordningspunkt som visas just nu, vilka förslag som är valda (det kan vara förslag det ska fattas beslut om eller som diskuteras i talarstolen), och eventuellt delar av texten i ett förslag som presidiet markerat på sin skärm.
+![Skiss över koppling från presidiets dator till projektor/storskärm dagens VoteIT](realtidsvy-nuläge.png)
+
+_Nuläget i VoteIT: Separata vyer för beslut och talarlistor_
+
+De stora nyheterna i det här projektet är att talarlistor och beslut blir en del av samma vy, och att deltagarna kan följa denna på sin egen skärm. De deltagare som vill ha lite mer kontroll och läsa texten i lugn och ro är hänvisade till den vanliga mötesvyn, där de behöver hitta rätt dagordningspunkt och scrolla till rätt förslag.
+
+Målet är att en vanlig deltagare ska kunna följa och interagera med det som är aktuellt i mötet i realtid, istället för att själv behöva leta upp aktuell dagordningspunkt för att sätta upp sig på talarlistan eller se vilka förslag som behandlas. Om det finns en pågående talarlista syns vilka som står på den, motsvarande dagens fullskärmsvy för talarlistor, och i delprojekt två gör vi det möjligt att sätta upp sig på talarlistan. Om presidiet sänder från plenumvyn får deltagaren även upp vilken dagordningspunkt som visas just nu, vilka förslag som är valda (det kan vara förslag det ska fattas beslut om eller som diskuteras i talarstolen), och eventuellt delar av texten i ett förslag som presidiet markerat på sin skärm.
 
 Vid omröstningar får deltagare med rösträtt automatiskt upp en valsedel, så att de enkelt kan lägga sin röst utan att behöva klicka fram omröstningen.
 
@@ -34,6 +40,10 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 > Uppskattad tid: 140 h  
 Lovade medel för att starta: 240 000 SEK
+
+![Skiss över sändning från presidiet med flera mottagare, varav en visas på projektor](realtidsvy-delprojekt-1.png)
+
+_Delprojekt 1 - presidiet kan sända från beslutsvyn och innehållet visas ihop med eventuell aktiv talarlista._
 
 Den mest grundläggande funktionaliteten för realtidsvyn är möjligheten att sända från plenumvyn och att lyssna på den sändningen i deltagarnas realtidsvy. För att detta ska fungera för alla möten, även större möten där det kan pågå parallella utskott med egna beslutsprocesser, behöver det vara möjligt att definiera mer än ett “rum”, på samma sätt som för dagens talarsystem i VoteIT. Dessa “rum” bör ersätta systemen för talarlistor, så att hantering av talarlistor och sändning från presidiet hänger ihop.
 
