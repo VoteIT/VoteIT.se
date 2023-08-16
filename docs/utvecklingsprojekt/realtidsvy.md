@@ -1,3 +1,11 @@
+---
+hello: test
+---
+
+<script setup>
+import ProgressBar from './ProgressBar.vue'
+</script>
+
 # VoteIT realtidsvy
 
 _Planerad start höstan 2023_
@@ -38,8 +46,11 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
+<ProgressBar :target="240000" />
+
 > Uppskattad tid: 140 h  
 Lovade medel för att starta: 240 000 SEK
+
 
 ![Skiss över sändning från presidiet med flera mottagare, varav en visas på projektor](realtidsvy-delprojekt-1.png)
 
@@ -65,6 +76,8 @@ I detta delprojekt visar vi endast status för en aktuell omröstning, inklusive
 
 ## Delprojekt 2: Interaktivitet
 
+<ProgressBar :target="90000" />
+
 > Uppskattad tid: 50 h  
 Lovade medel för att starta: 90 000 SEK
 
@@ -79,6 +92,8 @@ Om en talarlista visas där deltagaren har möjlighet att sätta upp sig som tal
 Om en deltagare har rätt att rösta i en omröstning ska de nu kunna göra det direkt i realtidsvyn. Valsedeln ska ligga kvar tills deltagaren själv trycker bort den, eller tills omröstningen stängts. Om det finns flera pågående omröstningar ska deltagaren ha möjlighet att navigera mellan dem, och rösta i den ordning hen önskar.
 
 ## Delprojekt 3: Detaljkontroll
+
+<ProgressBar :target="180000" />
 
 > Uppskattad tid: 100 h  
 Lovade medel för att starta: 180 000 SEK
