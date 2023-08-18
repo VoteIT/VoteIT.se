@@ -46,7 +46,7 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
-<ProgressBar :target="240000" />
+<ProgressBar :value="20000" :target="240000" />
 
 > Uppskattad tid: 140 h  
 Lovade medel för att starta: 240 000 SEK
