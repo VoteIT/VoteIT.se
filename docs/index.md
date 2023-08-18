@@ -6,13 +6,13 @@
 
 ## Ett helt nytt VoteIT
 
-Den 4e generationen VoteIT är nu i drift! Det har utvecklats under 3 år och kört skaprpa möten sen 2021. De stora nyheterna är:
+Den 4e generationen VoteIT är nu i drift! Det har utvecklats under 3 år och kört skarpa möten sen 2021. De stora nyheterna är:
 
 - Allting är i realtid. Alla förändringar syns direkt utan fördröjning.
 - Inga begränsningar i deltagare för möten. Vi har kört möten med 1 000 deltagare redan, utan serveranpassningar fungerar ca 3000 för realtidsmöten.
 - Policys och mötesdialekter automatiserar fler funktioner i mötet - om ni vill.
 - Integration och inloggning via medlemsregister, epost, BankID, eller kanske ett intranät?
-- Fungerar för onlinemöten, fysiska möten, hybridmöten, videmöten, styrelsemöten.
+- Fungerar för onlinemöten, fysiska möten, hybridmöten, videomöten, styrelsemöten.
 - Viktade röster eller röster från grupper för den som behöver.
 - Extremt låga bandbreddskrav - bara förändringar skickas till deltagare. Fungerar att köra utan bredbandsanslutning.
 - Automatiserade eller automatiska röstlängder utifrån vilket sorts möte ni vill ha.
