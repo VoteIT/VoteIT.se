@@ -22,9 +22,12 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 
 ### Sponsorer
 
-För att listas som sponsor för detta utvecklingsprojekt behöver organisationen utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 sponsorer på miniminivå.
+- Miljöpartiet de gröna
+- Sveriges Ingengörer
 
-Kontakta [Johan Schiff](mailto:johan@betahaus.net) för sponsring av VoteIT realtidsvy.
+_För att listas som sponsor för detta utvecklingsprojekt behöver din organisation utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 sponsorer på miniminivå._
+
+_Kontakta [Johan Schiff](mailto:johan@betahaus.net) för sponsring av VoteIT realtidsvy._
 
 ## Vad är nytt?
 
@@ -46,7 +49,7 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
-<ProgressBar :value="20000" :target="240000" />
+<ProgressBar :value="40_000" :target="240_000" />
 
 > Uppskattad tid: 140 h  
 Lovade medel för att starta: 240 000 SEK
@@ -76,7 +79,7 @@ I detta delprojekt visar vi endast status för en aktuell omröstning, inklusive
 
 ## Delprojekt 2: Interaktivitet
 
-<ProgressBar :target="90000" />
+<ProgressBar :target="90_000" />
 
 > Uppskattad tid: 50 h  
 Lovade medel för att starta: 90 000 SEK
@@ -93,7 +96,7 @@ Om en deltagare har rätt att rösta i en omröstning ska de nu kunna göra det 
 
 ## Delprojekt 3: Detaljkontroll
 
-<ProgressBar :target="180000" />
+<ProgressBar :target="180_000" />
 
 > Uppskattad tid: 100 h  
 Lovade medel för att starta: 180 000 SEK
