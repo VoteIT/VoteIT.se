@@ -10,7 +10,7 @@ import ProgressBar from './ProgressBar.vue'
 
 _Planerad start höstan 2023_
 
-__Ett projekt för att skapa en ny vy i VoteIT, där mötesdeltagare automatiskt följer och kan interagera med det som händer i mötet just nu. Deltagaren kan stanna i samma vy och följa pågående talarlista, sätta upp sig för att tala, se vilken dagordningspunkt och vilka förslag presidiet behandlar, och rösta i voteringar.__
+__Med projektet Realtidsvy får mötesdeltagarna en ny vy där de kan följa och interagera med det som händer i mötet just nu. Deltagaren kan på samma sida följa pågående talarlista, anmäla sig som talare, se vilken dagordningspunkt och vilka förslag presidiet behandlar, samt delta i omröstningar.__
 
 ## Finansiering
 
