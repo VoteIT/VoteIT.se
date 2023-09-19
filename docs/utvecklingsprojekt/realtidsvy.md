@@ -20,7 +20,7 @@ Vi har delat upp projektet i tre delprojekt, som var och ett kan genomföras och
 
 Att gränsen för att starta ett delprojekt är högre än beräknade timmar (kostnaden per utvecklingstimme är 1 200 SEK, ingen moms) beror på att faktisk utvecklingstid kan avvika från beräknad tid. Eventuella överskjutande medel flyttas till nästa delprojekt.
 
-### Sponsorer
+### Samarbetspartners
 
 - Miljöpartiet de gröna
 - Naturskyddsföreningen
@@ -28,9 +28,9 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 - Sveriges Ingengörer
 - Vision
 
-_För att listas som sponsor för detta utvecklingsprojekt behöver din organisation utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 sponsorer på miniminivå._
+_För att listas som samarbetspartner för detta utvecklingsprojekt behöver din organisation utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 samarbetspartners på miniminivå._
 
-_Kontakta [Johan Schiff](mailto:johan@betahaus.net) för sponsring av VoteIT realtidsvy._
+_Kontakta [Johan Schiff](mailto:johan@betahaus.net) för att delta i samarbetet kring VoteIT realtidsvy._
 
 ## Vad är nytt?
 
