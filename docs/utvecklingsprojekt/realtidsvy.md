@@ -26,6 +26,7 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 - Naturskyddsföreningen
 - Studiefrämjandet
 - Sveriges Ingengörer
+- Vision
 
 _För att listas som sponsor för detta utvecklingsprojekt behöver din organisation utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 sponsorer på miniminivå._
 
@@ -51,7 +52,7 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
-<ProgressBar :value="80_000" :target="240_000" />
+<ProgressBar :value="100_000" :target="240_000" />
 
 > Uppskattad tid: 140 h  
 Lovade medel för att starta: 240 000 SEK
