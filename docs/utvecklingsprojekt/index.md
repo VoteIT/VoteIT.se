@@ -5,7 +5,8 @@ VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokra
 ## Projekt som söker finansiering
 
 - [VoteIT realtidsvy](realtidsvy.md)
+- [Omröstningar med hemligt resultat](hemligt-resultat.md)
 
 ## Under utveckling
 
-_För närvarande finns inga aktiva utvecklingsprojekt. (sommaren 2023)_
+- [Reaktionsknappar som flaggor](flag-mode.md)

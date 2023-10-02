@@ -8,7 +8,7 @@ import ProgressBar from './ProgressBar.vue'
 
 # VoteIT realtidsvy
 
-_Planerad start höstan 2023_
+_Planerad start hösten 2023_
 
 __Med projektet Realtidsvy får mötesdeltagarna en ny vy där de kan följa och interagera med det som händer i mötet just nu. Deltagaren kan på samma sida följa pågående talarlista, anmäla sig som talare, se vilken dagordningspunkt och vilka förslag presidiet behandlar, samt delta i omröstningar.__
 
@@ -22,6 +22,8 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 
 ### Samarbetspartners
 
+- Fackförbundet ST
+- IOGT-NTO
 - Miljöpartiet de gröna
 - Naturskyddsföreningen
 - Studiefrämjandet
@@ -53,7 +55,7 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
-<ProgressBar :value="120_000" :target="240_000" />
+<ProgressBar :value="160_000" :target="240_000" />
 
 > Uppskattad tid: 140 h  
 Lovade medel för att starta: 240 000 SEK
