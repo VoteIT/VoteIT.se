@@ -7,6 +7,6 @@ VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokra
 - [VoteIT realtidsvy](realtidsvy.md)
 - [Omröstningar med hemligt resultat](hemligt-resultat.md)
 
-## Under utveckling
+## Tidigare projekt
 
-- [Reaktionsknappar som flaggor](flag-mode.md)
+- [Reaktionsknappar som flaggor](flag-mode.md) (Oktober 2023)

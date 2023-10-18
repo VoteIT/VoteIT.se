@@ -1,8 +1,8 @@
 # Reaktionsknappar som flaggor
 
-_Pågående utveckling, färdigt oktober 2023_
+_Projektet slutfördes oktober 2023_
 
-__En utveckling av reaktionsknapparna i VoteIT. Det blir möjligt att skapa reaktionsknappar i flaggläge, vilket innebär att mötets moderatorer kan slå på eller av reaktionen, exempelvis för att markera att styrelsen ställer sig bakom ett visst förslag. Dessutom uppdateras röstnings- och plenumvyn. Projektet genomförs i samarbete med fackförbundet Vision.__
+**En utveckling av reaktionsknapparna i VoteIT. Det blir möjligt att skapa reaktionsknappar i flaggläge, vilket innebär att mötets moderatorer kan slå på eller av reaktionen, exempelvis för att markera att styrelsen ställer sig bakom ett visst förslag. Dessutom uppdateras röstnings- och plenumvyn. Projektet genomförs i samarbete med [fackförbundet Vision](https://vision.se/).**
 
 ## Bakgrund
 

@@ -6,16 +6,13 @@ import ProgressBar from './ProgressBar.vue'
 
 _Söker finansiering_
 
-__Mindre utvecklingsprojekt för att lägga till möjligheten att stänga omröstningar utan att publicera resultatet.__
+**Mindre utvecklingsprojekt för att lägga till möjligheten att stänga omröstningar utan att publicera resultatet.**
 
 ## Finansiering
-
-<ProgressBar :value="0" :target="24_000" />
 
 Detta är ett mindre projekt, med ett fåtal organisationer som har ett tydligt behov av funktionen. Hör gärna av dig för samarbete om din organisation har behov av hemliga resultat.
 
 _Kontakta [Robin Harms Oredsson](mailto:robin@betahaus.net) för att delta i samarbetet kring omröstningar med hemligt resultat._
-
 
 ## Bakgrund
 

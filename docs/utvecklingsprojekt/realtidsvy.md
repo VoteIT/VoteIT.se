@@ -1,7 +1,3 @@
----
-hello: test
----
-
 <script setup>
 import ProgressBar from './ProgressBar.vue'
 </script>
@@ -10,7 +6,7 @@ import ProgressBar from './ProgressBar.vue'
 
 _Planerad start hösten 2023_
 
-__Med projektet Realtidsvy får mötesdeltagarna en ny vy där de kan följa och interagera med det som händer i mötet just nu. Deltagaren kan på samma sida följa pågående talarlista, anmäla sig som talare, se vilken dagordningspunkt och vilka förslag presidiet behandlar, samt delta i omröstningar.__
+**Med projektet Realtidsvy får mötesdeltagarna en ny vy där de kan följa och interagera med det som händer i mötet just nu. Deltagaren kan på samma sida följa pågående talarlista, anmäla sig som talare, se vilken dagordningspunkt och vilka förslag presidiet behandlar, samt delta i omröstningar.**
 
 ## Finansiering
 
@@ -23,13 +19,16 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 ### Samarbetspartners
 
 - Fackförbundet ST
+- Fackförbundat Vision
 - IOGT-NTO
 - Miljöpartiet de gröna
 - Naturskyddsföreningen
+- Rädda barnen
+- Socialdemokraterna Stockholm
 - Studiefrämjandet
+- Svenska Kennelklubben
 - Sveriges Ingengörer
 - Sverok
-- Vision
 
 _För att listas som samarbetspartner för detta utvecklingsprojekt behöver din organisation utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 samarbetspartners på miniminivå._
 
@@ -55,11 +54,10 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
-<ProgressBar :value="160_000" :target="240_000" />
+<ProgressBar :value="220_000" :target="240_000" />
 
 > Uppskattad tid: 140 h  
-Lovade medel för att starta: 240 000 SEK
-
+> Lovade medel för att starta: 240 000 SEK
 
 ![Skiss över sändning från presidiet med flera mottagare, varav en visas på projektor](realtidsvy-delprojekt-1.png)
 
@@ -88,7 +86,7 @@ I detta delprojekt visar vi endast status för en aktuell omröstning, inklusive
 <ProgressBar :target="90_000" />
 
 > Uppskattad tid: 50 h  
-Lovade medel för att starta: 90 000 SEK
+> Lovade medel för att starta: 90 000 SEK
 
 I det här delprojektet lägger vi till möjlighet att interagera med mötet i realtidsvyn.
 
@@ -105,7 +103,7 @@ Om en deltagare har rätt att rösta i en omröstning ska de nu kunna göra det 
 <ProgressBar :target="180_000" />
 
 > Uppskattad tid: 100 h  
-Lovade medel för att starta: 180 000 SEK
+> Lovade medel för att starta: 180 000 SEK
 
 I det här delprojektet lägger vi till möjlighet för presidiet att detaljstyra visning i sändarvyn. Det innefattar markering av text i förslag som visas i realtidsvyn (enskilda ord eller fraser), möjlighet att ändra ordning på förslag med dra-och-släpp och kontroller av dagordningspunktens inställningar (ex stänga möjlighet att gå till förslag när det är dags att gå till beslut).
 
