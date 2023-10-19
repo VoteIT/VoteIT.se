@@ -25,6 +25,7 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 - Naturskyddsföreningen
 - Rädda barnen
 - Socialdemokraterna Stockholm
+- Socialdemokraterna Stockholms län
 - Studiefrämjandet
 - Svenska Kennelklubben
 - Sveriges Ingengörer
@@ -54,7 +55,7 @@ Den nya vyn kan också visas på storbild, och visar då både plenumvy och full
 
 ## Delprojekt 1: Sändare och mottagare
 
-<ProgressBar :value="220_000" :target="240_000" />
+<ProgressBar :value="240_000" :target="240_000" />
 
 > Uppskattad tid: 140 h  
 > Lovade medel för att starta: 240 000 SEK
