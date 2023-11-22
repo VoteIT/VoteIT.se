@@ -6,7 +6,7 @@ import ProgressBar from './ProgressBar.vue'
 
 _Projektet slutfördes november 2023_
 
-**Mindre utvecklingsprojekt för att lägga till möjligheten att stänga omröstningar utan att publicera resultatet. Projektet genomfördes i samarbete med [Miljöpartiet de gröna](https://www.mp.se/) och [THS](https://ths.kth.se/)**
+**Mindre utvecklingsprojekt för att lägga till möjligheten att stänga omröstningar utan att publicera resultatet. Projektet genomfördes i samarbete med [Miljöpartiet de gröna](https://www.mp.se/) och [Tekniska Högskolans Studentkår](https://ths.kth.se/)**
 
 ## Bakgrund
 
