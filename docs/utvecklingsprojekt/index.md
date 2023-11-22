@@ -5,6 +5,8 @@ VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokra
 ## Projekt som söker finansiering
 
 - [VoteIT realtidsvy](realtidsvy.md)
+- [Könskvoterade talarlistor](konskvoterade-talarlistor.md)
+- [Röstgrupper med ordinarie och ersättare](rostgrupper-main-subst.md)
 
 ## Tidigare projekt
 

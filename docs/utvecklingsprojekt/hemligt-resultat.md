@@ -6,7 +6,7 @@ _Projektet slutfördes november 2023_
 
 ## Bakgrund
 
-Det är inte ovanligt att oprganisationer vill genomföra slutna omröstningar i VoteIT där resultatet inte är direkt synligt för alla.
+Det är inte ovanligt att organisationer vill genomföra slutna omröstningar i VoteIT där resultatet inte är direkt synligt för alla.
 
 Det kan till exempel handla om resultat som är medialt intressanta, där organisationens styrelse vill ha möjlighet att presentera resultatet för pressen på ett mer genomarbetat sätt. Det kan också handla om personval, där mötesfunktionärer vill ha möjlighet att meddela kandidater före andra på mötet.
 
