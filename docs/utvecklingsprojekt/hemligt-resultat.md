@@ -1,7 +1,3 @@
-<script setup>
-import ProgressBar from './ProgressBar.vue'
-</script>
-
 # Omröstningar med hemligt resultat
 
 _Projektet slutfördes november 2023_
