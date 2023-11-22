@@ -1,6 +1,6 @@
-# VoteIT - bättre beslutsmöten online
+# VoteIT - bättre beslutsmöten
 
-![Möte med VoteIT](./assets/meeting.jpeg)
+![Möte med VoteIT](./assets/kongresshall.jpg)
 
 **I VoteIT kan mötesdeltagare lägga förslag, diskutera, fatta beslut. Mötet kan ske helt online eller i kombination med fysiskt möte där deltagarna träffas och använder VoteIT för att fatta beslut. VoteIT är i alla delar fri och öppen programvara och omhändertas av den ideella föreningen VoteIT.**
 

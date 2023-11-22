@@ -1,5 +1,7 @@
 # Lär dig mer
 
+![Åhörare med dator i knäet](../assets/åhörare.jpg)
+
 Vill du lära dig mer om omröstningsmetoder i VoteIT, eller om de olika metoderna för att ta en röstlängd? Då har du hittat rätt.
 
 ## Omröstningsmetoder och kriterier
