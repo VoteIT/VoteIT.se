@@ -19,7 +19,7 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 ### Samarbetspartners
 
 - Fackförbundet ST
-- Fackförbundat Vision
+- Fackförbundet Vision
 - IOGT-NTO
 - Miljöpartiet de gröna
 - Naturskyddsföreningen

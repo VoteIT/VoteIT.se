@@ -1,6 +1,6 @@
 # Könskvoterade talarlistor
 
-**Utvecklingsprojekt för att stödja automatisk könskvotering av talarlistor i VoteIT**
+**Utvecklingsprojekt för könsstatistik och automatisk könskvotering av talarlistor i VoteIT**
 
 ## Finansiering
 
@@ -14,7 +14,9 @@ Funktionen är inte fullständigt specificerad ännu. Det kommer att göras till
 
 ## Vad är nytt
 
-- Användare ska kunna uppge kön eller pronomen per möte när de sätter upp sig på talarlistan.
+- Användare ska kunna uppge kön eller pronomen per möte när de går med i mötet eller sätter upp sig på talarlistan.
+- Talartidsstatistiken ska kunna visa fördelning av antal talade gånger, talad tid och hur många unika talare av olika kön.
+- Könsstatistiken ska även inkludera jämförelsetal för förväntat utfall utifrån könsfördelning bland alla mötets deltagare.
 - Talarlistor ska kunna visa deltagarens angivna kön/pronomen, för att det ska vara tydligt varför den satt aktuell ordning.
 - En ny ordningsmetod för talarlistor tillkommer, som kvoterar upp kvinnor och icke-binära.
 - Den nya ordningsmetoden ska även ha stöd för att prioritera talare som inte talat tidigare, och den prioriteringen ska gå före könskvotering.
