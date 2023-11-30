@@ -1,4 +1,4 @@
-# Könskvoterade talarlistor
+# Könsstatistik och kvotering i talarlistor
 
 **Utvecklingsprojekt för könsstatistik och automatisk könskvotering av talarlistor i VoteIT**
 
