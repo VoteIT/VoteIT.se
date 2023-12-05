@@ -28,7 +28,7 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 - Socialdemokraterna Stockholms län
 - Studiefrämjandet
 - Svenska Kennelklubben
-- Sveriges Ingengörer
+- Sveriges Ingenjörer
 - Sverok
 
 _För att listas som samarbetspartner för detta utvecklingsprojekt behöver din organisation utlova 20 000 SEK i finansiering. För att komma igång med steg ett krävs 12 samarbetspartners på miniminivå._
