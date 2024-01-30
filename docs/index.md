@@ -4,36 +4,36 @@
 
 **I VoteIT kan mötesdeltagare lägga förslag, diskutera, fatta beslut. Mötet kan ske helt online eller i kombination med fysiskt möte där deltagarna träffas och använder VoteIT för att fatta beslut. VoteIT är i alla delar fri och öppen programvara och omhändertas av den ideella föreningen VoteIT.**
 
-## Ett helt nytt VoteIT
+## Nyhet: VoteIT realtidsvy
 
-Den 4e generationen VoteIT är nu i drift! Det har utvecklats under 3 år och kört skarpa möten sen 2021. De stora nyheterna är:
+_Släpps 12 februari 2024_
 
-- Allting är i realtid. Alla förändringar syns direkt utan fördröjning.
-- Inga begränsningar i deltagare för möten. Vi har kört möten med 1 000 deltagare redan, utan serveranpassningar fungerar ca 3000 för realtidsmöten.
-- Policys och mötesdialekter automatiserar fler funktioner i mötet - om ni vill.
-- Integration och inloggning via medlemsregister, epost, BankID, eller kanske ett intranät?
-- Fungerar för onlinemöten, fysiska möten, hybridmöten, videomöten, styrelsemöten.
-- Viktade röster eller röster från grupper för den som behöver.
-- Extremt låga bandbreddskrav - bara förändringar skickas till deltagare. Fungerar att köra utan bredbandsanslutning.
-- Automatiserade eller automatiska röstlängder utifrån vilket sorts möte ni vill ha.
-- Nyfiken? Prova demomötet: [demo.voteit.se](https://demo.voteit.se)
+Nu blir VoteIT ännu bättre för livemöten. Med den nya realtidsvyn blir det enklare att följa vad som händer i mötet just nu. Den nya vyn kan visa både aktiv talarlista och förslag som behandlas, och kan användas både för att visa på projektor och på deltagarnas egna skärmar. Detta innebär även större förändringar av plenumvyn, vilket påverkar presidiets arbetsflöde.
 
-## Utvecklingsprojekt
+- [VoteIT realtidsvy – detta är nytt](./nyheter/realtidsvy-detta-ar-nytt.md)
 
-VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokratiska behov.
+Dessa ändringar är det första av tre steg i utvecklingsprojektet VoteIT realtidsvy. Vi räknar med att kunna genomföra steg 2 redan under våren, vilket innebär att det ska gå att rösta och sätta upp sig på talarlistan direkt från realtidsvyn.
 
-- [Utvecklingsprojekt](./utvecklingsprojekt/)
+- [Utvecklingsprojekt VoteIT realtidsvy](./utvecklingsprojekt/realtidsvy.md)
 
 ## I VoteIT finns
 
 - Digitalt stöd för att hålla årsmöten i enlighet med svensk lag
 - Hantering av dagordning, förslag, diskussioner och omröstningar
 - Röstlängder och närvarokontroll
-- Avancerade omröstningsmetoder (Schulze, majoritetsbeslut, kontrapropositionsvoteringar, flervalsvoteringar)
+- Avancerade omröstningsmetoder (Schulze, STV, majoritetsbeslut, etc)
 - Textändringsförslag för tydlig behandling av förslagstexter (ex verksamhetsplan)
 - Talarlistor och talarstatistik
-- Arbetsflöden för yrkanden, dagordningspunkter och hela möten – du ser hela tiden vad som är obehandlat, under behandling och färdigt.
+- Arbetsflöden för yrkanden, dagordningspunkter och hela möten – du ser hela tiden vad som är obehandlat, under behandling och färdigt
 - Automatiskt genererade protokoll
+- Stöd för stora möten – vi har haft möten med mer än tusen samtidigt uppkopplade deltagare
+- Alltid uppdaterad data – alla förändringar syns direkt utan fördröjning
+
+## Utvecklingsprojekt
+
+VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokratiska behov.
+
+- [Utvecklingsprojekt](./utvecklingsprojekt/)
 
 ## Föreningen VoteIT
 
@@ -42,6 +42,8 @@ VoteIT har vuxit fram genom ett unikt samarbete mellan en rad olika organisation
 ## Prova på VoteIT
 
 Om din organisation vill prova på VoteIT bokar vi gärna en genomgång, eller skapar ett demomöte där ni får prova själva. [Kontakta oss](/kontakt/) och berätta kort om er organisation, så bokar vi gärna en demonstration.
+
+Du kan också testa VoteIT genom att gå med i demomötet på [demo.voteit.se](https://demo.voteit.se).
 
 ## Engagera dig
 
