@@ -8,10 +8,9 @@ _Släpps den 12 februari 2024_
 
 **Realtidsvy** – Denna vy är i dagsläget en ren mottagarvy som visar innehåll från Sändarvyn. Den har ett avskalat utseende och lämpar sig väl för att visa på en projektor, men kan också användas av deltagare som vill följa mötet på en egen skärm.
 
-**Mötesrum** – För att aktivera realtidsvyn behöver du skapa minst ett mötesrum. Om du har behov av att kunna ha flera samtidigt pågående talarlistor och beslutsprocesser, exempelvis om ditt möte har parallellt pågående utskott, kan du skapa flera rum. Varje mötesrum har sina egna inställningar för talarlistor.
+**Mötesrum och talarlistor** – För att aktivera realtidsvyn behöver du skapa minst ett mötesrum. Om du har behov av att kunna ha flera samtidigt pågående talarlistor och beslutsprocesser, exempelvis om ditt möte har parallellt pågående utskott, kan du skapa flera rum. Varje mötesrum har sina egna inställningar för talarlistor.
 
-**Mötesrum och talarlistor**
-För att kunna använda realtidsvy och talarlistor kommer ni nu behöva ställa in mötesrum i ert möte. Vid skapande av nya möten går du nu igenom en guide där du får hjälp att ställa in mötesrum och talarlistor. Om du vill skapa mötesrum senare, eller vill lägga till flera rum, exempelvis för utskott, kan du göra det i mötets kontrollpanel.
+När du skapar nya möten går du nu igenom en guide där du får hjälp att ställa in mötesrum och talarlistor. Om du vill skapa mötesrum senare, eller vill lägga till flera rum, exempelvis för utskott, kan du göra det i mötets kontrollpanel.
 
 Om du har gamla möten med konfigurerade talarsystem skapas det automatiskt mötesrum för dessa.
 
