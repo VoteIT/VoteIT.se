@@ -90,7 +90,7 @@ _Under utvecklingen av delprojekt 1 blev det tydligt att två punkter från [del
 
 <ProgressBar :value="60_000" :target="60_000" />
 
-> Uppskattad tid: 40 h  
+> Uppskattad tid: 50 h  
 > Lovade medel för att starta: 60 000 SEK
 
 I det här delprojektet lägger vi till möjlighet att interagera med mötet i realtidsvyn.
