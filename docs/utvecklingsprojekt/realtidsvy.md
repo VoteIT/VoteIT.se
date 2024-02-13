@@ -82,12 +82,16 @@ Kontrollen av vad som visas i vyn styrs i det här delprojektet helt av sändarv
 
 I detta delprojekt visar vi endast status för en aktuell omröstning, inklusive hur många som röstat, eller resultatet från omröstningen när den avslutats.
 
+### _Delmål från steg 3_
+
+_Under utvecklingen av delprojekt 1 blev det tydligt att två punkter från [delprojekt 3](#delprojekt-3-detaljkontroll) var lämpliga att ta med redan i första steget, och att det gick att göra inom ramarna för finansieringen. Dessa har därför byggts färdiga redan under steg 1._
+
 ## Delprojekt 2: Interaktivitet
 
-<ProgressBar :target="90_000" />
+<ProgressBar :value="60_000" :target="60_000" />
 
-> Uppskattad tid: 50 h  
-> Lovade medel för att starta: 90 000 SEK
+> Uppskattad tid: 40 h  
+> Lovade medel för att starta: 60 000 SEK
 
 I det här delprojektet lägger vi till möjlighet att interagera med mötet i realtidsvyn.
 
@@ -118,10 +122,14 @@ Presidiet får möjlighet att ändra ordning på förslagen i de olika dagordnin
 
 ### 3c. Kontroll av dagordningspunkter
 
+_Genomfördes under steg 1_
+
 Här lägger vi till utökade kontroller av den aktuella dagordningspunkten i sändarvyn. Det ska gå att kontrollera om punkten är pågående och om det är möjligt att lägga nya förslag.
 
 Eventuellt lägger vi till knappar för att gå till beslut (se till att punkten är pågående, stäng möjlighet att lägga nya förslag) och för att gå till nästa punkt (stäng dagordningspunkten och flytta till nästa).
 
 ### 3d. Reaktionsknappar
+
+_Genomfördes under steg 1_
 
 Vi gör det möjligt att ställa in om en reaktionsknapp även ska vara synlig i realtidsvyn och i omröstningar. Det innebär att reaktioner i VoteIT blir betydligt mer användbara för att guida både ordförande och deltagare när det ska tas beslut.
