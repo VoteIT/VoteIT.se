@@ -27,6 +27,7 @@ Att gränsen för att starta ett delprojekt är högre än beräknade timmar (ko
 - Socialdemokraterna Stockholm
 - Socialdemokraterna Stockholms län
 - Studiefrämjandet
+- Styrelsepost
 - Svenska Kennelklubben
 - Sveriges Ingenjörer
 - Sverok
@@ -89,6 +90,8 @@ _Under utvecklingen av delprojekt 1 blev det tydligt att två punkter från [del
 ## Delprojekt 2: Interaktivitet
 
 <ProgressBar :value="60_000" :target="60_000" />
+
+_Delprojekt 2 utvecklas i samarbete med [Styrelsepost](https://styrelsepost.se/)._
 
 > Uppskattad tid: 50 h  
 > Lovade medel för att starta: 60 000 SEK
