@@ -4,9 +4,16 @@
 
 **I VoteIT kan mötesdeltagare lägga förslag, diskutera, fatta beslut. Mötet kan ske helt online eller i kombination med fysiskt möte där deltagarna träffas och använder VoteIT för att fatta beslut. VoteIT är i alla delar fri och öppen programvara och omhändertas av den ideella föreningen VoteIT.**
 
-## Nyhet: VoteIT realtidsvy
+## Liten uppdatering: Grupper i poster och på talarlista
 
-_Släpps 12 februari 2024_
+_29 februari 2024_
+
+Nu finns möjligheten att visa en användares grupper på talarlistan eller när man postar förslag eller diskussionsinlägg. Det går också att ställa in om medlemmar i en grupp ska kunna posta förslag som den gruppen.
+
+
+## VoteIT realtidsvy
+
+_12 februari 2024_
 
 Nu blir VoteIT ännu bättre för livemöten. Med den nya realtidsvyn blir det enklare att följa vad som händer i mötet just nu. Den nya vyn kan visa både aktiv talarlista och förslag som behandlas, och kan användas både för att visa på projektor och på deltagarnas egna skärmar. Detta innebär även större förändringar av plenumvyn, vilket påverkar presidiets arbetsflöde.
 
