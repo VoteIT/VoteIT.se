@@ -106,20 +106,25 @@ Om en talarlista visas där deltagaren har möjlighet att sätta upp sig som tal
 
 Om en deltagare har rätt att rösta i en omröstning ska de nu kunna göra det direkt i realtidsvyn. Valsedeln ska ligga kvar tills deltagaren själv trycker bort den, eller tills omröstningen stängts. Om det finns flera pågående omröstningar ska deltagaren ha möjlighet att navigera mellan dem, och rösta i den ordning hen önskar.
 
+### _Delmål från steg 3_
+
+_Under utvecklingen av detta delprojekt genomfördes ytterligare en punkt från [delprojekt 3](#delprojekt-3-detaljkontroll) - markering av text. Se nedan._
+
 ## Delprojekt 3: Detaljkontroll
 
-<ProgressBar :target="180_000" />
-
-> Uppskattad tid: 100 h  
-> Lovade medel för att starta: 180 000 SEK
+> _Delprojekt 3 är till största delen genomfört. Punkten om att förbereda ordning på förslag är struken från detta projekt. Om intresse finns kommer vi genomföra det som ett helt nytt utvecklingsprojekt._
 
 I det här delprojektet lägger vi till möjlighet för presidiet att detaljstyra visning i sändarvyn. Det innefattar markering av text i förslag som visas i realtidsvyn (enskilda ord eller fraser), möjlighet att ändra ordning på förslag med dra-och-släpp och kontroller av dagordningspunktens inställningar (ex stänga möjlighet att gå till förslag när det är dags att gå till beslut).
 
 ### 3a. Markering av text
 
+_Genomfördes under steg 2_
+
 Vi lägger till sändning av eventuell text i förslag som markerats av presidiet, vilket leder till att samma text markeras i realtidsvyn.
 
 ### 3b. Ordning på förslag
+
+_Ordning på förslag kommer inte genmföras inom ramarna för detta utvecklingsprojekt._
 
 Presidiet får möjlighet att ändra ordning på förslagen i de olika dagordningspunkterna, vilket underlättar planeringen av beslutsordningar på dagordningspunkter med komplicerade samband mellan olika förslag. En ordförande kan helt enkelt lägga upp en enkel variant av föreslagen propositionsordning i VoteIT. Ordningen av förslag styrs genom dra-och-släpp i förslagslistan och sparas antingen bara i den aktuella webbläsaren, eller på mötet.
 
