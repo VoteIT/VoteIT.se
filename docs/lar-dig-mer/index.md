@@ -16,5 +16,10 @@ Att välja rätt omröstningsmetod är viktigt för att få ett demokratiskt och
 
 För att genomföra omröstningar i ert VoteIT-möte behöver ni kunna fastställa röstlängd. För det krävs att ni ställer in en metod för röstlängder.
 
-- [Metoder för röstlängd](rostlangdsystem.md) (hur användare får rösträtt)
+- [Metoder för röstlängd](rostlangdsystem.md) - Hur användare får rösträtt
 - [Närvaro och rösträtt](narvaro-rostratt.md)
+
+
+## Skräddarsydda möten
+
+- [Mötesdialekt](motesdialekt.md) - Hanterar anpassningar av möten till föreningars specifika behov
