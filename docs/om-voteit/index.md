@@ -12,82 +12,79 @@ Alla privatpersoner och organisationer som delar föreningens intresse för nät
 
 ## Medlemsorganisationer
 
-- ABF Stockholm/Västra Götaland
-- Adventist
+- ABF Sthlm / Västra Götaland
+- Adventistsamfundet
 - Akavia
 - Betahaus
 - Bilkåren
-- BMW-klubben
+- Centerkvinnorna
 - Centerpartiet
 - Centerstudenter
 - CUF
-- DHR – Delaktighet Handlingskraft Rörelsefrihet
+- DHR - Delaktighet Handlingskraft Rörelsefrihet
 - DIK
 - Djurens Rätt
 - EFS
-- Equmenia
 - Equmeniakyrkan
+- Fältbiologerna
 - Feministiskt Initiativ
 - Finansförbundet
+- Flygsportförbundet
 - Forum
-- Friskis och Svettis
 - Funktionsrätt Stockholms län
-- Fältbiologerna
+- Grön Ungdom
 - IOGT-NTO
 - Junis
+- Klätterförbundet
 - LRF Trädgård
 - LRF Ungdomen
 - LSU
-- Läromedelsförfattarna
+- MÄN (män för jämställdhet)
+- Mensa
 - Miljöpartiet
 - Munskänkarna
-- Män (män för jämställdhet)
 - Naturskyddsföreningen
-- Nykterhetsrörelsens Scoutförbund
-- Osteopatförbundet
+- NSF
 - Piratpartiet
 - Pliktrådet
 - Polisförbundet
 - PSO
 - Psykologförbundet
-- RF-SISU Västra Götaland
+- Rädda Barnen
 - RFSL
 - RFSU
-- Riksförbundet FUB
 - Riksteatern
-- ROKS (Riksorganisationen för kvinnojourer och tjejjourer i Sverige)
-- Rädda Barnen
-- Röda korsets ungdomsförbund
+- RKUF (Röda korsets ungdomsförbund)
+- Roks
+- Scen & Film
 - Scouterna
 - Seko
+- SFS
 - SKAP
+- SKK
 - Sköldkörtelförbundet
+- SKR
 - Socialdemokraterna Göteborg
-- Socialdemokraterna Stockholm
+- Socialdemokraterna Stockholms län
+- Socialdemokraterna Stockholms kommun
 - SSU
-- ST-facket
-- Studiefrämjandet
+- ST
+- STF
 - Studieförbundet Vuxenskolan
+- Studiefrämjandet
+- StuFF
 - Svensk biblioteksförening
 - Svensk Live
-- Svenska Flygsportförbundet
-- Svenska Kennelklubben
-- Svenska Kyrkans Unga
-- Svenska Turistföreningen
-- Sveriges förenade studentkårer (SFS)
 - Sveriges Ingenjörer
-- Sveriges Tandläkarförbund
-- Sveriges Ungdomsråd
-- Sveriges Yngre Läkares Förbund - SYLF
 - Sverok
-- Taekwondoförbundet, Svenska
-- Scen och film
+- SYLF
+- Taekwondoförbundet
 - Tekniska Högskolans Studentkår
+- UNF
 - Ung Media
 - Ung Vänster
-- Ungdomens nykterhetsförbund
-- Vision
 - Vårdförbundet
+- Vision
 
 ## Styrelse
 Styrelsen väljs av medlemmarna på föreningens årsmöte. Nuvarande ledamöter i styrelsen är:
