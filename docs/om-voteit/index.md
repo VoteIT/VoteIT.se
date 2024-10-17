@@ -87,12 +87,14 @@ Alla privatpersoner och organisationer som delar föreningens intresse för nät
 - Vision
 
 ## Styrelse
+
 Styrelsen väljs av medlemmarna på föreningens årsmöte. Nuvarande ledamöter i styrelsen är:
 
 - [Anders Hultman](mailto:anders@betahaus.net)
-- [Robin Harms Oredsson](mailto:robin@betahaus.net)
+- Carl Bjelksjö
+- Henrik Almén
 - [Linnea Risinger](mailto:linnea.risinger@gmail.com)
-- [Hans Cruse](mailto:hans.cruse@gmail.com)
+- Magnus Kron
 
 ## Personuppgiftspolicy
 
