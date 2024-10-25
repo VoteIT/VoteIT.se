@@ -10,7 +10,7 @@ Kontakta [Robin Harms Oredsson](mailto:robin@betahaus.net) om er organisation vi
 
 VoteIT har redan många olika metoder för att styra över vem som ska ha rösträtt i ett möte. Det går även att bjuda in med specifika roller direkt till en grupp. Däremot saknas möjlighet för deltagarna i gruppen att detaljstyra vilka som ska ha rösträtt just nu. I det här projektet bygger vi ett system med ordinarie och ersättare, där ordinarie ombud själva kan föra över eller ta tillbaka sin rösträtt inom gruppen.
 
-Funktionen är inte fullständigt specificerad ännu. Det kommer att göras tillsammans med de organisationer som samarbetar kring projektet, då de exakta reglerna för könskvotering eventuellt kan skilja åt mellan organisationer.
+Funktionen är inte fullständigt specificerad ännu. Det kommer att göras tillsammans med de organisationer som samarbetar kring projektet.
 
 ## Vad är nytt
 
