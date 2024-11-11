@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   lang: 'sv-SE',
   title: 'VoteIT',
   description: 'Bättre beslutsmöten',
@@ -32,4 +34,4 @@ export default {
       }
     ]
   }
-}
+})
