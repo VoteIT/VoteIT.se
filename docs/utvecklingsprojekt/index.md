@@ -6,11 +6,11 @@ VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokra
 
 ## Projekt som söker finansiering
 
-- [VoteIT realtidsvy](realtidsvy.md)
 - [Könsstatistik och kvotering i talarlistor](konskvoterade-talarlistor.md)
-- [Röstgrupper med ordinarie och ersättare](rostgrupper-main-subst.md)
+- [Röstgrupper med överföring av rösträtt](rostgrupper-main-subst.md)
 
 ## Tidigare projekt
 
+- [VoteIT realtidsvy](realtidsvy.md)
 - [Omröstningar med hemligt resultat](hemligt-resultat.md) (November 2023)
 - [Reaktionsknappar som flaggor](flag-mode.md) (Oktober 2023)

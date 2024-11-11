@@ -1,4 +1,4 @@
-# Röstgrupper med ordinarie och ersättare
+# Röstgrupper med överföring av rösträtt
 
 **Utvecklingsprojekt för avancerade röstgrupper i VoteIT, där gruppernas medlemmar själva kan styra över vem som ska ha rösträtt i mötet.**
 
