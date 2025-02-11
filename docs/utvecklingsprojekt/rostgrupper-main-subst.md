@@ -10,7 +10,7 @@ import ProgressBar from './ProgressBar.vue'
 
 Detta projekt behöver 40 000 kr i utlovade medel för att starta och faktureras i efterhand. Om utvecklingskonstnaderna överstiger den summan bärs överstigande kostnad av leverantören. Om projektet blir billigare att genomföra ges medverkande organisationer motsvarande procentuell rabatt vid fakturering.
 
-<ProgressBar :value="0" :target="40_000" />
+<ProgressBar :value="20_000" :target="40_000" />
 
 Kontakta [Robin Harms Oredsson](mailto:robin@betahaus.net) om er organisation vill vara med i samarbetet.
 
