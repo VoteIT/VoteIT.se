@@ -8,7 +8,33 @@ Programvaran VoteIT började som en plattform för att arrangera webbmöten och 
 
 ## Medlemskap
 
-Alla privatpersoner och organisationer som delar föreningens intresse för nätdemokrati och är intresserade av att bida till utvecklingen av VoteIT är välkomna att bli medlemmar i föreningen VoteIT. För att bli medlem skickar man ett mail till styrelsen och betalar in medlemsavgiften. Föreningens medlemsavgift är 10 000 kr per år.
+Alla privatpersoner och organisationer som delar föreningens intresse för nätdemokrati och är intresserade av att bida till utvecklingen av VoteIT är välkomna att bli medlemmar i föreningen VoteIT. För att bli medlem skickar ni ett [mejl till styrelsen](mailto:anders@betahaus.net) och betalar in medlemsavgiften.
+
+## Medlemsavgift
+
+Medlemsavgiften i VoteIT baseras på om organisationen anses vara liten, medelstor eller stor. En ny medlemsorganisation kategoriseras vanligtvis som liten.
+
+### Liten: 10 000 kr/år
+
+Standardavgift.
+
+### Medelstor: 20 000 kr/år
+
+Minst två kriterier uppfylls:
+
+- 5 eller fler möten med fler än 15 deltagare
+- Max 500 deltagare på ett specifikt möte
+- Onlinetid på mer än 100 dygn
+- Fler än 250 aktiva användare
+
+### Stor: 30 000 kr/år
+
+Minst ett kriterium uppfylls:
+
+- Ett möte med fler än 500 deltagare
+- 10 eller fler möten med fler än 15 deltagare
+- Onlinetid på mer än 250 dygn
+- Fler än 500 aktiva användare
 
 ## Medlemsorganisationer
 
