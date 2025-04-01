@@ -8,6 +8,7 @@ VoteIT är ett levande projekt som utvecklas för att möta medlemmarnas demokra
 
 - [Könsstatistik och kvotering i talarlistor](konskvoterade-talarlistor.md)
 - [Röstgrupper med överföring av rösträtt](rostgrupper-main-subst.md)
+- [Rösta med krypto](votecoin.md)
 
 ## Tidigare projekt
 

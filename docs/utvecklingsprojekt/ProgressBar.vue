@@ -15,33 +15,34 @@ const props = defineProps({
 const animValue = ref(0)
 const root = ref(null)
 
-function increaseAnimValue () {
+function increaseAnimValue() {
   if (animValue.value >= props.value) return
-  animValue.value = animValue.value + (props.value / 100)
+  animValue.value = animValue.value + props.value / 100
   setTimeout(increaseAnimValue, 20)
 }
 
 const isComplete = computed(() => animValue.value >= props.target)
-const percentage = computed(() => animValue.value / props.target * 100)
+const percentage = computed(() => (animValue.value / props.target) * 100)
 
-function startAnim () {
+function startAnim() {
   if (animValue.value) return
   increaseAnimValue()
 }
 
 onMounted(() => {
   new IntersectionObserver(
-    entries => entries[0].isIntersecting && startAnim()
+    (entries) => entries[0].isIntersecting && startAnim()
   ).observe(root.value)
 })
 </script>
 
 <template>
-  <div class="progress" :class="{complete: isComplete}" ref="root">
-    <div class="bar" :style="{width: `${percentage}%`}"></div>
+  <div class="progress" :class="{ complete: isComplete }" ref="root">
+    <div class="bar" :style="{ width: `${percentage}%` }"></div>
     <div class="overlay">
       <slot>
-        {{ animValue.toLocaleString() }} av {{ target.toLocaleString() }}
+        {{ Math.floor(animValue).toLocaleString() }} av
+        {{ target.toLocaleString() }}
       </slot>
     </div>
   </div>
