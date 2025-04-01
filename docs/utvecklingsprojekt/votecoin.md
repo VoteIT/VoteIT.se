@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - property: 'og:image'
+      content: https://voteit.se/assets/DALL-E-votecoin.Cl9TWJSq.jpg
+---
+
 <script setup>
 import ProgressBar from './ProgressBar.vue'
 </script>
@@ -6,7 +13,7 @@ import ProgressBar from './ProgressBar.vue'
 
 **Utvecklingsprojekt för att möjliggöra röstning i VoteIT med kryptovalutor.**
 
-![AI-genererad bild med en stor hand som stoppar ner ett kryptomynt i en solid röstlåda.](DALL·E-votecoin.webp)
+![AI-genererad bild med en stor hand som stoppar ner ett kryptomynt i en solid röstlåda.](DALL-E-votecoin.jpg)
 
 ## Finansiering
 
