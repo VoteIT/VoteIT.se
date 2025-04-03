@@ -9,7 +9,7 @@ head:
 import ProgressBar from './ProgressBar.vue'
 </script>
 
-# Rösta med krypto
+# Rösta med krypto (1 april 2025)
 
 **Utvecklingsprojekt för att möjliggöra röstning i VoteIT med kryptovalutor.**
 
