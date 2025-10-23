@@ -8,11 +8,7 @@ import ProgressBar from './ProgressBar.vue'
 
 ## Finansiering
 
-Detta projekt behöver 40 000 kr i utlovade medel för att starta och faktureras i efterhand. Om utvecklingskonstnaderna överstiger den summan bärs överstigande kostnad av leverantören. Om projektet blir billigare att genomföra ges medverkande organisationer motsvarande procentuell rabatt vid fakturering.
-
-<ProgressBar :value="20_000" :target="40_000" />
-
-Kontakta [Robin Harms Oredsson](mailto:robin@betahaus.net) om er organisation vill vara med i samarbetet.
+Projektet genomfördes hösten 2025, finansierat av Miljöpartiet de gröna.
 
 ## Bakgrund
 
@@ -22,8 +18,8 @@ Flytten av rösträtt inom grupperna kan liknas vid hur en röstsedel lämnas ö
 
 ## Vad är nytt
 
-- En ny mötesdialekt tas fram, liknande "Ordinarie och ersättare", men där deltagare ska kunna detaljstyra vem som har rösträtt i gruppen.
-- Ordinarie ledamöter ska kunna flytta över sin rösträtt till en ersättare i gruppen som inte redan har rösträtt.
-- Ordinarie ledamöter ska kunna ta tillbaka sin rösträtt från den som för tillfället har just den personens rösträtt.
-- Ersättare i gruppen ska kunna lämna tillbara rösträtt till ordinarie eller flytta vidare rösträtt till en annan ersättare i gruppen som inte redan har rösträtt.
-- Deltagare ska kunna vara ersättare i mer än en grupp, och dess rösträtt ska då gå att spåra till den grupp de har rösträtt från.
+- En ny mötesdialekt togs fram, liknande "Ordinarie och ersättare", men där deltagare kan detaljstyra vem som har rösträtt i gruppen.
+- Ordinarie ledamöter kan flytta över sin rösträtt till en ersättare i gruppen som inte redan har rösträtt.
+- Ordinarie ledamöter kan ta tillbaka sin rösträtt från den som för tillfället har just den personens rösträtt.
+- Ersättare i gruppen kan lämna tillbara rösträtt till ordinarie eller flytta vidare rösträtt till en annan ersättare i gruppen som inte redan har rösträtt.
+- Deltagare kan vara ersättare i mer än en grupp, och dess rösträtt går gå att spåra till den grupp de har rösträtt från.
