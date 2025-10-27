@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import { VPLink } from 'vitepress/theme'
+import FeediverseList from './feed/FeediverseList.vue'
+</script>
+
 # VoteIT - bättre beslutsmöten
 
 ![Möte med VoteIT](./assets/kongresshall.jpg)
@@ -16,6 +21,18 @@
 - Automatiskt genererade protokoll
 - Stöd för stora möten – vi har haft möten med mer än tusen samtidigt uppkopplade deltagare
 - Alltid uppdaterad data – alla förändringar syns direkt utan fördröjning
+
+## Senaste nytt
+
+<FeediverseList max-items="3">
+  <template #append>
+    <ul>
+      <li>
+        <VPLink href="/feed/">Fler nyheter</VPLink>
+      </li>
+    </ul>
+  </template>
+</FeediverseList>
 
 ## Utvecklingsprojekt
 
