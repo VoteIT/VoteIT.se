@@ -121,6 +121,7 @@ Styrelsen väljs av medlemmarna på föreningens årsmöte. Nuvarande ledamöter
 - Henrik Almén
 - [Linnea Risinger](mailto:linnea.risinger@gmail.com)
 - Magnus Kron
+- Teo Elmfeldt
 
 ## Personuppgiftspolicy
 
